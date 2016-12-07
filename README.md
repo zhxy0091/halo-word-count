@@ -4,8 +4,4 @@ The goal of this exercise is to satisfy the assertion provided by counting the 1
 
 Make your comparisons case-insensitive and strip punctuation.  The answer should be an array of 10 words all converted to lowercase.
 
-Please make sure the assertion succeeds and then email your answer to jamie.swain@hautelook.com.
-
-If you prefer to use another language, no problem, just make sure you get the same answer.
-
-Thanks!
+The example provided is in Python. If you prefer to use another language, no problem, just make sure you get the same answer.
